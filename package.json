@@ -1,0 +1,14 @@
+{
+  "name": "jenkinstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build successful\"",
+    "test": "echo \"Tests successful\"",
+    "start": "echo \"Started successfully\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
